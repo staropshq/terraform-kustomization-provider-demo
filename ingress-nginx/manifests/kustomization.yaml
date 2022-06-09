@@ -1,0 +1,3 @@
+resources:
+  - nginx-controller.yaml
+  - nginx-controller.service.yaml
